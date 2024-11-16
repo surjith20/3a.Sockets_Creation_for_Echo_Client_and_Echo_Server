@@ -40,8 +40,6 @@ while True:
 
 ![image](https://github.com/user-attachments/assets/bce01e23-e280-4742-af43-a1e7d1e1d453)
 
-
-
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
