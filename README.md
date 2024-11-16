@@ -31,6 +31,13 @@ while True:
     ClientMessage=c.recv(1024).decode()
     c.send(ClientMessage.encode())
 ```
+
+
+
+
+
+
+
 ## OUPUT
 ![image](https://github.com/user-attachments/assets/0c69befa-62c4-4376-bb90-75793838412e)
 
